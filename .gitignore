@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+lex.yy.c
+y.tab.c
+y.tab.h
+java_parser
+
+# Backup files
+*.bak
